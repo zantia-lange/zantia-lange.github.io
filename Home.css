@@ -6,7 +6,6 @@
   min-height: 314px;
   margin-top: 0;
   margin-bottom: 0;
-  height: auto;
   background-image: url("images/GraphicdesignBGs3.jpg");
 }
 
@@ -45,12 +44,6 @@
   letter-spacing: 2px;
   margin: 8px auto 16px;
   padding: 0;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-image-1 {
-    height: auto;
-  }
 }
 
 @media (max-width: 991px) {

@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/GraphicdesignBGs3-21.jpg");
+  background-image: url("images/GraphicdesignBGs3-20.jpg");
   background-position: 50% 50%;
 }
 
@@ -196,7 +196,7 @@
     min-height: 399px;
   }
 } .u-section-3 {
-  background-image: url("images/GraphicdesignBGs3-23.jpg");
+  background-image: url("images/GraphicdesignBGs3-21.jpg");
   background-position: 50% 50%;
 }
 
@@ -347,7 +347,7 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 562px;
+  min-height: 560px;
 }
 
 .u-section-4 .u-text-1 {
@@ -359,10 +359,11 @@
 
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 463px;
+    min-height: 470px;
   }
 
   .u-section-4 .u-text-1 {
+    width: auto;
     margin-right: 232px;
   }
 }
@@ -374,36 +375,36 @@
 
   .u-section-4 .u-text-1 {
     font-size: 3.76471rem;
-    width: auto;
-    margin-top: 84px;
-    margin-right: 281px;
-    margin-left: 14px;
+    margin-right: 295px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 271px;
+    min-height: 354px;
   }
 
   .u-section-4 .u-text-1 {
-    margin-right: 115px;
-    margin-left: 0;
     font-size: 3.75rem;
+    margin-right: 115px;
   }
 }
 
 @media (max-width: 575px) {
+   .u-section-4 {
+    background-position: 39.93% 50%;
+  }
+
   .u-section-4 .u-sheet-1 {
-    min-height: 171px;
+    min-height: 300px;
   }
 
   .u-section-4 .u-text-1 {
-    margin-right: 0;
     font-size: 3rem;
+    margin-right: 0;
   }
 }.u-section-5 .u-sheet-1 {
-  min-height: 1248px;
+  min-height: 1206px;
 }
 
 .u-section-5 .u-group-1 {
@@ -425,7 +426,7 @@
   width: 744px;
   height: 296px;
   object-position: 50% 100%;
-  margin: 0 auto 42px;
+  margin: 0 auto;
 }
 
 @media (max-width: 1199px) {
@@ -436,7 +437,7 @@
 
 @media (max-width: 991px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1238px;
+    min-height: 1198px;
   }
 
   .u-section-5 .u-group-1 {
@@ -479,7 +480,6 @@
 
   .u-section-5 .u-image-1 {
     height: 215px;
-    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -488,11 +488,18 @@
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 1087px;
+    min-height: 1008px;
   }
 
   .u-section-5 .u-text-1 {
     width: 320px;
+  }
+
+  .u-section-5 .u-image-1 {
+    height: 150px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 } .u-section-6 {
   background-image: url("images/gradient-vector-background-flat-design-gradient-banner-design-dynamic-style-poster-online-landing-page-cover-ad-greeting-card-promotion-illustration_176697-1150.jpeg");
@@ -625,19 +632,25 @@
 }
 
 .u-section-7 .u-sheet-1 {
-  min-height: 528px;
+  min-height: 560px;
 }
 
 .u-section-7 .u-text-1 {
   text-shadow: -6px 12px 8px rgba(41,45,51,0.55);
   font-weight: 700;
   font-size: 6rem;
-  margin: 40px 0 40px 538px;
+  margin: 56px 0 56px 538px;
 }
 
 @media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 488px;
+  }
+
   .u-section-7 .u-text-1 {
     width: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-left: 410px;
   }
 }
@@ -655,23 +668,30 @@
 
 @media (max-width: 767px) {
   .u-section-7 .u-sheet-1 {
-    min-height: 270px;
+    min-height: 320px;
   }
 
   .u-section-7 .u-text-1 {
-    margin-left: 119px;
     font-size: 3.75rem;
+    margin-left: 119px;
   }
 }
 
 @media (max-width: 575px) {
+   .u-section-7 {
+    background-position: 100% 47.7%;
+    background-size: auto 110%;
+  }
+
   .u-section-7 .u-sheet-1 {
-    min-height: 170px;
+    min-height: 300px;
   }
 
   .u-section-7 .u-text-1 {
-    margin-left: 0;
     font-size: 3rem;
+    margin-top: 38px;
+    margin-left: 0;
+    margin-bottom: 38px;
   }
 }.u-section-8 .u-sheet-1 {
   min-height: 1508px;
@@ -728,6 +748,7 @@
   .u-section-8 .u-image-1 {
     width: 300px;
     height: 300px;
+    margin-top: 75px;
   }
 }
 
